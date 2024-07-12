@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karam Abbas</h1>
 <h3 align="center">A CS undergrad student from FAST-NUCES Lahore.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karam-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="karam-abbas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karam-abbas" alt="karam-abbas" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Karam-Abbas](https://github.com/Karam-Abbas)
 
 - 💬 Ask me about **DSA,OOP,DB,C/C++,SQL,HTML,CSS,JS**
