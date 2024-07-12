@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karam Abbas</h1>
 <h3 align="center">A CS undergrad student from FAST-NUCES Lahore.</h3>
+<img src="https://komarev.com/ghpvc/?username=karam-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="karam-abbas" /> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karam-Abbas](https://github.com/Karam-Abbas)
 
