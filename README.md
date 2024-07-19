@@ -9,7 +9,7 @@
   <a href="https://github.com/Karam-Abbas" target="_blank">👨‍💻 All of my projects are available here</a>
 </p>
 
-- 💬 Ask me about **DSA, OOP, DB, C/C++, SQL, HTML, CSS, JS**
+- 💬 Ask me about **DSA, OOP, DB, C/C++, SQL, HTML, CSS, JS, MERN**
 
 - 📫 How to reach me: **karamabbas03@gmail.com**
 
@@ -23,11 +23,14 @@
   <a href="https://linkedin.com/in/karam-abbas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karam abbas" height="30" width="40" />
   </a>
+  <a href="https://fb.com/karam.abbas07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karam abbas" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/karam.abbas07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karam abbas" height="30" width="40" />
+  </a>
   <a href="https://stackoverflow.com/users/karam-abbas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karam abbas" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/karam-abbas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karam abbas" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/karam_abbas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karam_abbas" height="30" width="40" />
