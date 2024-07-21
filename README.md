@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 
-  <a href="https://linkedin.com/in/karam-abbas" target="blank">
+  <a href="https://www.linkedin.com/in/karam-abbas-8884952b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karam abbas" height="30" width="40" />
   </a>
   <a href="https://fb.com/karam.abbas07" target="blank">
