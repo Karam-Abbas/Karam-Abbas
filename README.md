@@ -61,11 +61,6 @@
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
 </div>
 
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karam-abbas&" alt="karam-abbas" />
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam-abbas&show_icons=true&locale=en&layout=compact" alt="karam-abbas" />
 </p>
