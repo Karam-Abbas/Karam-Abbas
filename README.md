@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **karamabbas03@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://github.com/Karam-Abbas/Academia/blob/3ea0c3383139c80af9ab530d29f9e628fef051bc/Karam_Abbas.docx)
+- 📄 Know about my experiences: [Resume](https://github.com/Karam-Abbas/Academia/blob/3ea0c3383139c80af9ab530d29f9e628fef051bc/Karam_Abbas.pdf)
 
 - ⚡ Fun fact: **I am deeply passionate about electronics, having pursued numerous related courses, and possess a keen enthusiasm for staying abreast of the latest innovations in the field, particularly within robotics.**
 
@@ -61,7 +61,4 @@
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
 </div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karam-abbas&show_icons=true&locale=en&layout=compact" alt="karam-abbas" />
-</p>
 
