@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **karamabbas03@gmail.com**
 
-- 📄 Know about my experiences: [Resume]([https://github.com/Karam-Abbas/Academia/blob/3ea0c3383139c80af9ab530d29f9e628fef051bc/Karam_Abbas.pdf](https://github.com/Karam-Abbas/Academia/blob/ed0739681f301c82e60553cb195ee1490b767098/Karam_Abbas.pdf))
+- 📄 Know about my experiences: [Resume](https://github.com/Karam-Abbas/Academia/blob/ed0739681f301c82e60553cb195ee1490b767098/Karam_Abbas.pdf)
 
 - ⚡ Fun fact: **I am deeply passionate about electronics, having pursued numerous related courses, and possess a keen enthusiasm for staying abreast of the latest innovations in the field, particularly within robotics.**
 
